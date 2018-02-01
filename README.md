@@ -771,9 +771,9 @@ const RouteConfigExample = () => (
 按需加载。。也可以叫延迟加载。 [这里有一份简书的文档可以参考(作者:zhangpei)](https://www.jianshu.com/p/ba3c295be412),里面的内容值得深入琢磨，在这里不做讨论，有兴趣的可以研究研究。
 
 
-#####[demo地址-github](https://github.com/krislee94/react_router_4_demo/)
+##### [demo地址-github](https://github.com/krislee94/react_router_4_demo/)
 
-###参考
+### 参考
 ```js
 作者：阮一峰
 链接：http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu
